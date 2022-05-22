@@ -11,7 +11,7 @@ const ColorfulButtonMeta: ComponentMetadata = {
     "package": "react-comps",
     "version": "0.1.0",
     "exportName": "ColorfulButton",
-    "main": "src\\index.tsx",
+    "main": "./src/index.tsx",
     "destructuring": true,
     "subName": ""
   },
